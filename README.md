@@ -1,0 +1,2 @@
+# QRcode-componet
+QRcode component 
